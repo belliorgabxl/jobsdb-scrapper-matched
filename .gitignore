@@ -1,0 +1,5 @@
+config.json
+seen_jobs.json
+jobs_output.csv
+job_alert.log
+__pycache__/
